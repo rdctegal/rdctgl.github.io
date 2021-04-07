@@ -1,0 +1,100 @@
+.nav-wrapper img {
+    margin-top: -15px;
+
+}
+
+.slider h3,
+.slider h5, {
+	text-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+
+}
+
+
+
+.tentang {
+ padding-top: 10px;
+}
+
+.tentang h3 {
+    margin-top: -10px;
+    padding-top: 10px;
+}
+
+.tentang img {
+    max-width: 145px;
+    height: 170px;
+    filter: drop-shadow(1px 1px 5p rgba(0,0,0,0.8));
+    margin: 10px auto;
+    border-top-right-radius: 30px;
+}
+
+.beranda h3 {
+     margin-top: -10px;
+    padding-top: 10px;
+}
+
+.galery h3 {
+	margin-top: 20px;
+    padding-top: 10px;
+    
+}
+
+strong .seminar {
+    border-radius: 30px;
+}
+
+.parallax-container {
+    height: 220px;
+}
+
+
+.parallax-container img {
+   
+}
+
+.kegiatan h3 {
+    padding-top: 20px;
+}
+
+.carousel img {
+    height: 100%;
+    width: 80%;
+}
+
+.contact h3 {
+	padding-top: 20px;
+}
+
+section, footer {
+    padding: 20px 0;
+}
+
+footer .view p {
+    letter-spacing: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
